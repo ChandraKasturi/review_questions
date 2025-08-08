@@ -63,19 +63,19 @@ export const SUBJECTS_DATA: SubjectData = {
   'x_science': {
     name: 'Science',
     topics: [
-      'Chemical Reactions and Equations Solutions',
-      'Acids, Bases and Salts Solutions',
-      'Metals and Non Metals Solutions',
-      'Carbon and Its Compounds Solutions',
-      'Life Processes Solutions',
-      'Control And Coordination Solutions',
-      'How do Organisms Reproduce Solutions',
-      'Heredity and Evolution Solutions',
-      'Light Reflection and Refraction Solutions',
-      'The Human Eye and the Colourful World Solutions',
-      'Electricity Solutions',
-      'Magnetic Effects of Electric Current Solutions',
-      'Our Environment Solutions'
+      'Chemical Reactions and Equations',
+      'Acids, Bases and Salts',
+      'Metals and Non Metals',
+      'Carbon and Its Compounds',
+      'Life Processes',
+      'Control And Coordination In Animals And Plants',
+      'How do Organisms Reproduce',
+      'Heredity and Evolution',
+      'Light Reflection and Refraction',
+      'The Human Eye and the Colourful World',
+      'Electricity',
+      'Magnetic Effects of Electric Current',
+      'Our Environment'
     ]
   },
   'x_social_science': {
@@ -85,9 +85,9 @@ export const SUBJECTS_DATA: SubjectData = {
       'Nationalism in India',
       'The Making of a Global World',
       'Print Culture and the Modern World',
-      'Power-sharing',
+      'Power Sharing',
       'Federalism',
-      'Gender, Religion and Caste',
+      'Gender Religion and Caste',
       'Political Parties',
       'Outcomes of Democracy',
       'Resources and Development',
@@ -96,11 +96,10 @@ export const SUBJECTS_DATA: SubjectData = {
       'Agriculture',
       'Mineral and Energy Resources',
       'Manufacturing Industries',
-      'Lifelines of National Economy',
       'Development',
-      'Sectors of the Indian Economy',
+      'Sectors of Indian Economy',
       'Money and Credit',
-      'Globalisation and the Indian Economy'
+      'Globalisation and Indian Economy'
     ]
   },
   'x_hindi': {
