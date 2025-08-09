@@ -8,7 +8,7 @@ import {
   UpdateQuestionResponse,
 } from '@/types';
 
-const API_BASE_URL = 'http://localhost:80';
+const API_BASE_URL = 'https://aigenix.in';
 
 // Create axios instance
 const api = axios.create({
