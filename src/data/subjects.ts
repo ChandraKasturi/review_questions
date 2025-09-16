@@ -63,19 +63,19 @@ export const SUBJECTS_DATA: SubjectData = {
   'x_science': {
     name: 'Science',
     topics: [
-      'Chemical Reactions and Equations',
-      'Acids, Bases and Salts',
-      'Metals and Non Metals',
-      'Carbon and Its Compounds',
-      'Life Processes',
-      'Control And Coordination In Animals And Plants',
-      'How do Organisms Reproduce',
-      'Heredity and Evolution',
-      'Light Reflection and Refraction',
-      'The Human Eye and the Colourful World',
-      'Electricity',
-      'Magnetic Effects of Electric Current',
-      'Our Environment'
+      'chemical-reactions-and-equations',
+      'acids-bases-and-salts', 
+      'metals-and-non-metals', 
+      'carbon-and-its-compounds',
+      'life-processes',
+      'control-and-coordination',
+      'how-do-organisms-reproduce',
+      'heredity',
+      'light-reflection-and-refraction', 
+      'the-human-eye-and-the-colourful-world',
+      'electricity',
+      'magnetic-effects-of-electric-current',
+      'our-environment'
     ]
   },
   'x_social_science': {
