@@ -7,7 +7,7 @@ export interface SubjectData {
 }
 
 export const SUBJECTS_DATA: SubjectData = {
-  'x_english': {
+  'x-english': {
     name: 'English',
     topics: [
       'A Letter to God',
@@ -40,7 +40,7 @@ export const SUBJECTS_DATA: SubjectData = {
       'The Book that Saved the Earth'
     ]
   },
-  'x_mathematics': {
+  'x-mathematics': {
     name: 'Mathematics',
     topics: [
       'Real Numbers',
@@ -60,7 +60,7 @@ export const SUBJECTS_DATA: SubjectData = {
       'Probability'
     ]
   },
-  'x_science': {
+  'x-science': {
     name: 'Science',
     topics: [
       'chemical-reactions-and-equations',
@@ -78,7 +78,7 @@ export const SUBJECTS_DATA: SubjectData = {
       'our-environment'
     ]
   },
-  'x_social_science': {
+  'x-social-science': {
     name: 'Social Science',
     topics: [
       'The Rise of Nationalism in Europe',
@@ -102,7 +102,7 @@ export const SUBJECTS_DATA: SubjectData = {
       'Globalisation and Indian Economy'
     ]
   },
-  'x_hindi': {
+  'x-hindi': {
     name: 'Hindi',
     topics: [
       'Surdas',
