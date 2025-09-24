@@ -72,25 +72,16 @@ export const SUBJECTS_DATA: SubjectData = {
   'x-social-science': {
     name: 'Social Science',
     topics: [
-      'The Rise of Nationalism in Europe',
-      'Nationalism in India',
-      'The Making of a Global World',
-      'Print Culture and the Modern World',
-      'Power Sharing',
-      'Federalism',
-      'Gender Religion and Caste',
-      'Political Parties',
-      'Outcomes of Democracy',
-      'Resources and Development',
-      'Forest and Wildlife Resources',
-      'Water Resources',
-      'Agriculture',
+      'nationalism-in-India',
+      'federalism',
+      'gender-religion-and-caste',
+      'forest-and-wildlife-resources',
+      'agriculture,
       'Mineral and Energy Resources',
-      'Manufacturing Industries',
-      'Development',
-      'Sectors of Indian Economy',
-      'Money and Credit',
-      'Globalisation and Indian Economy'
+      'manufacturing-industries',
+      'development',
+      'money-and-credit',
+      'globalisation-and-indian-economy'
     ]
   },
   'x-hindi': {
