@@ -76,7 +76,7 @@ export const SUBJECTS_DATA: SubjectData = {
       'federalism',
       'gender-religion-and-caste',
       'forest-and-wildlife-resources',
-      'agriculture,
+      'agriculture',
       'minerals-and-energy-resources',
       'manufacturing-industries',
       'development',
