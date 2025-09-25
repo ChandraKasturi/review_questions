@@ -81,7 +81,16 @@ export const SUBJECTS_DATA: SubjectData = {
       'manufacturing-industries',
       'development',
       'money-and-credit',
-      'globalisation-and-indian-economy'
+      'globalisation-and-indian-economy',
+      'outcomes-of-democracy',
+      'political-parties',
+      'powersharing',
+      'print-culture-and-the-modern-world',
+      'resources-and-development',
+      'sectors-of-the-indian-economy',
+      'the-making-of-a-global-world',
+      
+      
     ]
   },
   'x-hindi': {
