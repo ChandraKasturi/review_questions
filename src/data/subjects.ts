@@ -39,7 +39,15 @@ export const SUBJECTS_DATA: SubjectData = {
       'arithmetic-progressions',
       'circles',
       'coordinate-geometry',
-      'introduction-to-trigonometry'
+      'introduction-to-trigonometry',
+      'linear-equations',
+      'polynomials',
+      'probability',
+      'quadratic-equations',
+      'real-numbers',
+      'statistics',
+      'surface-areas-and-volumes',
+      'triangles'
     ]
   },
   'x-science': {
