@@ -34,21 +34,12 @@ export const SUBJECTS_DATA: SubjectData = {
   'x-mathematics': {
     name: 'Mathematics',
     topics: [
-      'Real Numbers',
-      'Polynomials',
-      'Pair of Linear Equations in Two Variables',
-      'Quadratic Equations',
-      'Arithmetic Progressions',
-      'Triangles',
-      'Coordinate Geometry',
-      'Introduction to Trigonometry',
-      'Some Applications of Trigonometry',
-      'Circles',
-      'Constructions',
-      'Areas Related to Circles',
-      'Surface Areas and Volumes',
-      'Statistics',
-      'Probability'
+      'applications-of-trigonometry',
+      'areas-related-to-circles',
+      'arithmetic-progressions',
+      'circles',
+      'coordinate-geometry',
+      'introduction-to-trigonometry'
     ]
   },
   'x-science': {
@@ -89,8 +80,8 @@ export const SUBJECTS_DATA: SubjectData = {
       'resources-and-development',
       'sectors-of-the-indian-economy',
       'the-making-of-a-global-world',
-      
-      
+      'the-rise-of-nationalism-in-europe',
+      'water-resources'
     ]
   },
   'x-hindi': {
